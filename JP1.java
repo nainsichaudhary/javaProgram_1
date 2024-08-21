@@ -1,4 +1,4 @@
-class Data
+class JP1
 {
 public static void main(String args[])
 {
